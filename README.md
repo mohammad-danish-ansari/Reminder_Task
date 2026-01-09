@@ -1,3 +1,46 @@
+**Frontend:**: Angular 
+
+# install Angular CLI 
+npm install -g @angular/cli
+
+### 1. Create a Angular app 
+ng new website
+
+
+# start frontend 
+### how to run website 
+cd website
+npm install
+ng s -o
+
+
+# Add your GitHub repo as remote (replace with your repo link)
+https://github.com/mohammad-danish-ansari/Reminder_Task/tree/master
+
+# Add all files
+git add .  
+
+# Commit changes
+git commit -m "Angular"  
+
+# Push to GitHub master branch
+git pull origin master 
+git push -u origin master 
+
+
+## Project Overview
+This project is a simple and clean web application built to practice real-world frontend concepts.
+Focused on user experience, clean UI, and readable code.
+Designed to work smoothly on both desktop and mobile devices
+
+# Features
+Live clock with normal and fast-forward mode
+Add and manage reminders easily
+Previous reminders are automatically marked as completed
+Real-time UI updates without page refresh
+Responsive layout for mobile and desktop
+Clean and minimal design
+
 # Task
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
